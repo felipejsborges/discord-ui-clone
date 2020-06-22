@@ -1,5 +1,5 @@
 <div align="center">	
-		<img src="/.github/discordlogo.jpg" alt="Logo" style="max-width:80%"/>	
+		<img src="/.github/discordlogo.jpg" alt="Logo" style="max-width:30%"/>	
 </div>
 
 <div align="center">
