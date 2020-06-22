@@ -7,10 +7,13 @@
 </div>
 
 ### What is it? 🚀
-This is a clone of the interface of the discord app. I created it to practice [ReactJS](https://reactjs.org/) and [styled-components](https://styled-components.com/)
+This is a clone of [discord](https://discord.com/) interface. I created it to practice [ReactJS](https://reactjs.org/) and [styled-components](https://styled-components.com/).
 <hr>
 
 ### See how it looks
+<div align="center">	
+		<img src="/.github/discordui.gif" alt="Logo" style="max-width:100%"/>	
+</div>
 
 <hr>
 
