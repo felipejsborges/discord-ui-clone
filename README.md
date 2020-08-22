@@ -17,9 +17,5 @@ This is a clone of [discord](https://discord.com/) interface. I created it to pr
 
 <hr>
 
-### What is the next step?
-- Now, I'm going to create an API in order to make it more dynamic. Besides to practice Node.js. In few days, come back here to see the final result.
-<hr>
-
 by Felipe Borges<br>
 [LinkedIn](https://www.linkedin.com/in/felipejsborges) | [GitHub](https://github.com/felipejsborges)
